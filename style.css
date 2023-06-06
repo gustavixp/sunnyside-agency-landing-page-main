@@ -801,6 +801,8 @@ body {
     font-size: 16px;
     color: var(--neutral-grey-800);
     z-index: 10;
+    background: none;
+    width: fit-content;
   }
 
   .learn-more.transform::after {
@@ -888,6 +890,8 @@ body {
     font-size: 16px;
     color: var(--neutral-grey-800);
     z-index: 10;
+    background: none;
+    width: fit-content;
   }
 
   .learn-more.stand-out::after {
